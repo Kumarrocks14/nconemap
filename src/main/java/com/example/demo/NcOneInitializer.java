@@ -8,7 +8,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class NcOneInitializer {
     public static void main(String[] args) {
         SpringApplication.run(NcOneInitializer.class, args);
-        System.out.println("Application is up & running");
+        System.out.println("Application is up & running...");
     }
 }
 
